@@ -21,7 +21,7 @@ const App = () => {
 	}
 	return (
 		<div className='App'>
-			<h1>Hello World</h1>
+			<h1>Hello React hooks</h1>
 			<div className='form'>
 				<input
 					value={userQuery}
